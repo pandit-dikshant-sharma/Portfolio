@@ -5,10 +5,10 @@ This repository contains my personal portfolio website built to showcase my proj
 #contact us-
 
 [GitHub](https://github.com/pandit-dikshant-sharma)
-![Twitter](https://x.com/dikshant9528)
-![LinkedIn ](https://www.linkedin.com/in/panditdikshantsharma/)
-![Instagram ](https://www.instagram.com/pandit_dikshant_sharma/)
-![Mediun ](https://pandit-dikshant-sharma.medium.com/)
+[Twitter](https://x.com/dikshant9528)
+[LinkedIn ](https://www.linkedin.com/in/panditdikshantsharma/)
+[Instagram ](https://www.instagram.com/pandit_dikshant_sharma/)
+[Mediun ](https://pandit-dikshant-sharma.medium.com/)
 
 
 
